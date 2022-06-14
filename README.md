@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 I am a 2nd Year Computer Science BEng Student at the Univerisity of Edinburgh. Interested in Data Science and Software Engineering.
 Currently interning at Umlaut, Part of Accenture as an Engineering Intern.
 
