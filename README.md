@@ -1,6 +1,8 @@
 ## Hey there 👋
-### I am a 2nd Year Computer Science BEng Student at the Univerisity of Edinburgh . Interested in Data Science and Software Engineering.
-### Currently interning at Umlaut, Part of Accenture as an Engineering Intern.
+### 👨‍🎓 I am a 2nd Year Computer Science BEng Student at the University of Edinburgh  
+### 🔭 Interested in Data Science and Software Engineering
+### 👨‍💻 Currently interning at Umlaut, Part of Accenture as an Engineering Intern.
+
 
 ![Pranav's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavg23&layout=compact)
 
