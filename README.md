@@ -2,7 +2,7 @@
 ### I am a 2nd Year Computer Science BEng Student at the Univerisity of Edinburgh . Interested in Data Science and Software Engineering.
 ### Currently interning at Umlaut, Part of Accenture as an Engineering Intern.
 
-![Pranav's Most Used Languages][(https://github-readme-stats.vercel.app/api/top-langs/?username=pranavg23&layout=compact]
+![Pranav's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavg23&layout=compact)
 
 <!--
 **pranavg23/pranavg23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
