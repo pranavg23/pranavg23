@@ -8,7 +8,7 @@
 ![Pranav's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavg23&layout=compact)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computers are good at following instructions, but not at reading your mind.”— Donald Knuth   ❞</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--
