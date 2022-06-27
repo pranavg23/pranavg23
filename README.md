@@ -8,7 +8,7 @@
 ![Pranav's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavg23&layout=compact)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Software is a gas; it expands to fill its container.”— Nathan Myhrvold  ❞</i>
+<i>❝“In a room full of top software designers, if two agree on the same thing, that’s a majority.”— Bill Curtis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--
