@@ -8,7 +8,7 @@
 ![Pranav's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavg23&layout=compact)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The goal is to turn data into information, and information into insight.”— Carly Fiorina❞</i>
+<i>❝A computer worm was present before that could access your Windows XP OS, could download a patch from Microsoft to exist the vulnerability as used it to infect the system and after delete itself.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--
