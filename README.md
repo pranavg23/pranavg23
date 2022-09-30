@@ -8,7 +8,7 @@
 ![Pranav's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavg23&layout=compact)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Without a systematic way to start and keep data clean, bad data will happen.”— Donato Diorio❞</i>
+<i>❝“If you automate a mess, you get an automated mess.”— Rod Michael   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--
