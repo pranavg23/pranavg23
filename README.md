@@ -8,7 +8,7 @@
 ![Pranav's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavg23&layout=compact)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Program testing can be a very effective way to show the presence of bugs, but is hopelessly inadequate for showing their absence.”— Edsger Dijkstra   ❞</i>
+<i>❝Only 2 out of the top 500 supercomputers run on Windows, and 485 are Linux.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--
