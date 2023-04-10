@@ -2,7 +2,7 @@
 
 ### 👨‍🎓 I am a 3rd Year Computer Science BEng Student at the University of Edinburgh  
 ### 🔭 Interested in Data Science and Software Engineering
-### 👨‍💻 Currently interning at Umlaut, Part of Accenture as an Engineering Intern.
+### 👨‍💻 Incoming intern at Barclays as a Developer Analyst.
 
 
 ![Pranav's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavg23&layout=compact)
