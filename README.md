@@ -1,8 +1,8 @@
 ![image](https://user-images.githubusercontent.com/44878487/174291463-3a8e8ebe-13c4-45ea-a6b5-bb4d14168b38.png)
 
-### 👨‍🎓 I am a 3rd Year Computer Science BEng Student at the University of Edinburgh  
-### 🔭 Interested in Data Science and Software Engineering
-### 👨‍💻 Incoming intern at Barclays as a Developer Analyst.
+### 👨‍🎓 I am a 4th Year Computer Science BEng Student at the University of Edinburgh  
+### 🔭 Interested in Machine Learning and Computer Security
+### 👨‍💻 Previously interned at Barclays, Accenture and Ericcson.
 
 
 ![Pranav's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavg23&layout=compact)
